@@ -11,3 +11,6 @@ wheels/
 
 # MAC
 .DS_Store
+
+data/
+ui/node_modules/
