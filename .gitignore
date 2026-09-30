@@ -12,5 +12,7 @@ wheels/
 # MAC
 .DS_Store
 
+# Miscellaneous
+.env
 data/
 ui/node_modules/
